@@ -1,0 +1,8 @@
+lgraph/lgraph.pl
+lgraph/lgraph.plt
+disjointset/disjointset.go
+disjointset/disjointset_test.go
+term/parser.go
+term/parser_test.go
+unify/unify.go
+unify/unify_test.go
